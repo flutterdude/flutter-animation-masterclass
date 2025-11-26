@@ -13,9 +13,9 @@
 
 ## 📱 Preview
 
-<p align="center">
-  <img src="screenshots/demo.gif" alt="Flutter Animation Demo Car Rental App" width="300" />
-</p>
+
+https://github.com/user-attachments/assets/52a3fe66-7fd1-456d-8e86-0241c6060ab7
+
 
 ---
 
